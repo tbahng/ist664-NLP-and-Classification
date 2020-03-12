@@ -10,7 +10,7 @@ Term: Winter 2020
 
 Instructor: Michael Larche mlarche@syr.edu
 
-Data: 
+Data: https://github.com/tbahng/ist664-NLP-and-Classification/tree/master/corpus
 
 Notebook Filename: thomas_bahng_final.ipynb
 
